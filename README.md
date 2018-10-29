@@ -1,1 +1,2 @@
-# saltstack_research
+# SaltStack Knowledge Base
+
